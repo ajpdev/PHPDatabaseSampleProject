@@ -82,4 +82,6 @@
 <?php
 //TODO td - stands for table data
 //TODO 1 tr = 1 row of data
+echo "Added this echo change in test3.php <br>";
+echo "this is another change on this file."
 ?>
